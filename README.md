@@ -1,4 +1,4 @@
-# CIVA - Conversational Intelligent Virtual Assistant
+# CIVA - Computer Integrated Virtual Assistant
 
 ## Overview
 CIVA is a desktop virtual assistant with both GUI and voice interaction capabilities. It uses Google's Gemini 1.5 Flash AI model for generating responses and can perform various system tasks.
